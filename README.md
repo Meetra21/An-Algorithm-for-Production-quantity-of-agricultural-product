@@ -1,6 +1,6 @@
-# Grople Syrup Production Forecasting  
+# G-Syrup Production Forecasting  
 
-This project builds a **time-series forecasting model** to predict the **monthly production of Grople syrup** across 10 provinces using both production history and environmental factors.  
+This project builds a **time-series forecasting model** to predict the **monthly production of G-syrup** across 10 provinces using both production history and environmental factors.  
 
 Grople syrup is derived from a fruit that takes months to grow and a few days to process into syrup. The dataset spans **January 2015 – December 2020** for production quantities, and includes related environmental datasets to help capture the effects of climate and vegetation on yield.  
 
@@ -8,7 +8,7 @@ Grople syrup is derived from a fruit that takes months to grow and a few days to
 
 ## 🎯 Project Goal  
 
-- Predict **monthly Grople syrup production (tonnes)** for each province.  
+- Predict **monthly G-syrup production (tonnes)** for each province.  
 - Incorporate **weather, soil, and vegetation features** into the forecasting model.  
 - Explore advanced models such as **ARIMA, LSTM, GRU, and hybrid ML/DL methods** for improved accuracy.  
 
